@@ -1,0 +1,18 @@
+.details-container {
+    border: 2px solid #F5F5F7;
+    /* margin: 3px; */
+}
+
+
+.content {
+    margin: 8px;
+}
+
+.number-call {
+    display: flex;
+flex-direction: column;
+}
+
+.number {
+    font-weight: bold;
+}
