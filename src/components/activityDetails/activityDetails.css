@@ -1,6 +1,9 @@
+
 .details-container {
-    border: 2px solid #F5F5F7;
-    /* margin: 3px; */
+    border: 3px solid #F5F5F7;
+    margin: 15px;
+    padding: 4px;
+    border-radius: 10px;
 }
 
 
@@ -17,4 +20,19 @@ flex-direction: column;
 
 .number {
     font-weight: bold;
+}
+
+.date {
+    display:flex;
+    justify-content: center;
+}
+
+.red-circle {
+
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 5px;
+    background: #F95040
 }
