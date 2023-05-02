@@ -14,12 +14,13 @@
   height: 666px;
   z-index: 100;
 
-  background: white;
+  background: #F5F5F7;
   border-radius: 3px;
   box-shadow: 0 0 5px 0 rgba(0, 0, 0, .9);
   display: flex;
   justify-content: space-between;
   flex-direction: column;
+
 
   /* min-height: 80vh;
   position: relative; */
