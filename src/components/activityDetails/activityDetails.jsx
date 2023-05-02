@@ -23,6 +23,12 @@ function activityDetails() {
           <span className="number">+336 45 13 53 91</span>
           <span>tried to call on </span>
         </div>
+
+        <div className="time">
+          <span className="number">7: 58</span>
+          <span> PM </span>
+        </div>
+
       </div>
     </div>
   );
