@@ -9,7 +9,7 @@ import React from 'react'
 
 function bottomNavBar() {
   return (
-    <div classNAme="navbar-container">bottomNavBar
+    <div className="navbar-container">
     <span> <IoIosCall /></span>
     <span> <RxPerson /></span>
     <span> <MdOutlineDialpad /></span>
